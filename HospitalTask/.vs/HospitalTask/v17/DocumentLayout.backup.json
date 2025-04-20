@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\",
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab\\task1\\hospitaltask\\hospitaltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab206task\\hospitaltask\\hospitaltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab\\task1\\hospitaltask\\hospitaltask\\hospital\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\hospital\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab\\task1\\hospitaltask\\hospitaltask\\hospital\\personbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\hospital\\personbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab\\task1\\hospitaltask\\hospitaltask\\hospital\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\hospital\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab\\task1\\hospitaltask\\hospitaltask\\hospital\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\hospital\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab\\task1\\hospitaltask\\hospitaltask\\hospital\\genders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\hospital\\genders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab\\task1\\hospitaltask\\hospitaltask\\hospital\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\hospital\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab\\task1\\hospitaltask\\hospitaltask\\hospital\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\hospital\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab\\task1\\hospitaltask\\hospitaltask\\hospital\\hospitalstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab206task\\hospitaltask\\hospitaltask\\hospital\\hospitalstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\hospital\\hospitalstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab\\task1\\hospitaltask\\hospitaltask\\hospital\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab206task\\hospitaltask\\hospitaltask\\hospital\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\hospital\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab206task\\hospitaltask\\hospitaltask\\hospital\\personbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\hospital\\personbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab206task\\hospitaltask\\hospitaltask\\hospital\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\hospital\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab206task\\hospitaltask\\hospitaltask\\hospital\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\hospital\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab206task\\hospitaltask\\hospitaltask\\hospital\\genders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\hospital\\genders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab206task\\hospitaltask\\hospitaltask\\hospital\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\hospital\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab206task\\hospitaltask\\hospitaltask\\hospital\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\hospital\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab206task\\hospitaltask\\hospitaltask\\hospital\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC3B0CB2-2F51-45AC-8738-C08F173E6D20}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\hospital\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,133 +58,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "HospitalStats.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Hospital\\HospitalStats.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Hospital\\HospitalStats.cs",
               "RelativeDocumentMoniker": "HospitalTask\\Hospital\\HospitalStats.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Hospital\\HospitalStats.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Hospital\\HospitalStats.cs",
               "RelativeToolTip": "HospitalTask\\Hospital\\HospitalStats.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T13:41:36.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Genders.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Hospital\\Genders.cs",
-              "RelativeDocumentMoniker": "HospitalTask\\Hospital\\Genders.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Hospital\\Genders.cs",
-              "RelativeToolTip": "HospitalTask\\Hospital\\Genders.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T13:41:04.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Hospital\\Doctor.cs",
-              "RelativeDocumentMoniker": "HospitalTask\\Hospital\\Doctor.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Hospital\\Doctor.cs",
-              "RelativeToolTip": "HospitalTask\\Hospital\\Doctor.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA5wB0AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T13:40:50.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Hospital\\Department.cs",
-              "RelativeDocumentMoniker": "HospitalTask\\Hospital\\Department.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Hospital\\Department.cs",
-              "RelativeToolTip": "HospitalTask\\Hospital\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T13:40:37.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T13:41:36.441Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DBContext.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Hospital\\DBContext.cs",
-              "RelativeDocumentMoniker": "HospitalTask\\Hospital\\DBContext.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Hospital\\DBContext.cs",
-              "RelativeToolTip": "HospitalTask\\Hospital\\DBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Title": "Genders.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Hospital\\Genders.cs",
+              "RelativeDocumentMoniker": "HospitalTask\\Hospital\\Genders.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Hospital\\Genders.cs",
+              "RelativeToolTip": "HospitalTask\\Hospital\\Genders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T13:40:15.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T13:41:04.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Hospital\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalTask\\Hospital\\Doctor.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Hospital\\Doctor.cs",
+              "RelativeToolTip": "HospitalTask\\Hospital\\Doctor.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:40:50.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Hospital\\Department.cs",
+              "RelativeDocumentMoniker": "HospitalTask\\Hospital\\Department.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Hospital\\Department.cs",
+              "RelativeToolTip": "HospitalTask\\Hospital\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:40:37.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Hospital\\DBContext.cs",
+              "RelativeDocumentMoniker": "HospitalTask\\Hospital\\DBContext.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Hospital\\DBContext.cs",
+              "RelativeToolTip": "HospitalTask\\Hospital\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T13:40:15.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Hospital\\Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Hospital\\Appointment.cs",
               "RelativeDocumentMoniker": "HospitalTask\\Hospital\\Appointment.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Hospital\\Appointment.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Hospital\\Appointment.cs",
               "RelativeToolTip": "HospitalTask\\Hospital\\Appointment.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T13:39:50.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T13:39:50.668Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Program.cs",
               "RelativeDocumentMoniker": "HospitalTask\\Program.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Program.cs",
               "RelativeToolTip": "HospitalTask\\Program.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAEIAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwDYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T13:38:08.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PersonBase.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Hospital\\PersonBase.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Hospital\\PersonBase.cs",
               "RelativeDocumentMoniker": "HospitalTask\\Hospital\\PersonBase.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Hospital\\PersonBase.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Hospital\\PersonBase.cs",
               "RelativeToolTip": "HospitalTask\\Hospital\\PersonBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T13:42:49.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T13:42:49.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Hospital\\Patient.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Hospital\\Patient.cs",
               "RelativeDocumentMoniker": "HospitalTask\\Hospital\\Patient.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Hospital\\Patient.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Hospital\\Patient.cs",
               "RelativeToolTip": "HospitalTask\\Hospital\\Patient.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAxwB8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T13:42:27.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T13:42:27.542Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "IPerson.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Hospital\\IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Hospital\\IPerson.cs",
               "RelativeDocumentMoniker": "HospitalTask\\Hospital\\IPerson.cs",
-              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB\\task1\\HospitalTask\\HospitalTask\\Hospital\\IPerson.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\HospitalTask\\HospitalTask\\Hospital\\IPerson.cs",
               "RelativeToolTip": "HospitalTask\\Hospital\\IPerson.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T13:41:48.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T13:41:48.162Z"
             }
           ]
         }

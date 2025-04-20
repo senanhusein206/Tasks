@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Masaüstü\\AB\\task1\\HospitalTask\\HospitalTask\\HospitalTask.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Masaüstü\\AB206task\\HospitalTask\\HospitalTask\\HospitalTask.csproj",
       "projectName": "HospitalTask",
-      "projectPath": "C:\\Users\\hp\\OneDrive\\Masaüstü\\AB\\task1\\HospitalTask\\HospitalTask\\HospitalTask.csproj",
+      "projectPath": "C:\\Users\\hp\\OneDrive\\Masaüstü\\AB206task\\HospitalTask\\HospitalTask\\HospitalTask.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\OneDrive\\Masaüstü\\AB\\task1\\HospitalTask\\HospitalTask\\obj\\",
+      "outputPath": "C:\\Users\\hp\\OneDrive\\Masaüstü\\AB206task\\HospitalTask\\HospitalTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

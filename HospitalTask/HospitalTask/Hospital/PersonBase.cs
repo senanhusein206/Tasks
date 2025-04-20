@@ -11,7 +11,7 @@ public class PersonBase: IPerson
     public int Id { get; set; }
     public string Name { get; set; }
     public string Surname { get; set; }
-    public Gender Gender { get; set; }
+    public Genders Gender { get; set; }
 
     public string GetFullName()
     {

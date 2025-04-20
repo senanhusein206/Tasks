@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\TasSong\TasSong\bin\Debug\net8.0\TasSong.exe
+C:\Users\hp\source\repos\TasSong\TasSong\bin\Debug\net8.0\TasSong.deps.json
+C:\Users\hp\source\repos\TasSong\TasSong\bin\Debug\net8.0\TasSong.runtimeconfig.json
+C:\Users\hp\source\repos\TasSong\TasSong\bin\Debug\net8.0\TasSong.dll
+C:\Users\hp\source\repos\TasSong\TasSong\bin\Debug\net8.0\TasSong.pdb
+C:\Users\hp\source\repos\TasSong\TasSong\obj\Debug\net8.0\TasSong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\TasSong\TasSong\obj\Debug\net8.0\TasSong.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\TasSong\TasSong\obj\Debug\net8.0\TasSong.AssemblyInfo.cs
+C:\Users\hp\source\repos\TasSong\TasSong\obj\Debug\net8.0\TasSong.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TasSong\TasSong\obj\Debug\net8.0\TasSong.dll
+C:\Users\hp\source\repos\TasSong\TasSong\obj\Debug\net8.0\refint\TasSong.dll
+C:\Users\hp\source\repos\TasSong\TasSong\obj\Debug\net8.0\TasSong.pdb
+C:\Users\hp\source\repos\TasSong\TasSong\obj\Debug\net8.0\TasSong.genruntimeconfig.cache
+C:\Users\hp\source\repos\TasSong\TasSong\obj\Debug\net8.0\ref\TasSong.dll
