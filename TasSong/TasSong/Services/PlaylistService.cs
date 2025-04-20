@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TasSong.Exceptions;
-using TasSong.Helper;
+using TasSong.Enums;
 using TasSong.Models;
 
 namespace TasSong.Services;
@@ -39,15 +39,15 @@ public void AddSongToPlaylist(int id, Song song)
         throw new Newexception( "Song is cannot be null.");
     }
 
-    foreach (var playlist in Playlists)
+    foreach (var item in Playlists)
 
     {
 
-        if (playlist.Id == id)
+        if (item.Id == id)
 
         {
 
-            playlist.Songs.Add(song);
+            item.Songs.Add(song);
 
             Console.WriteLine("Song added to playlist successfully.");
                 return;
@@ -72,15 +72,15 @@ public void AddSongToPlaylist(int id, Song song)
 
     {
 
-        foreach (var list  in Playlists)
+        foreach (var item  in Playlists)
 
 {
 
-            foreach (var song in list.Songs)
+            foreach (var songs in item.Songs)
 
             {
 
-                list.Songs.Remove(song);
+                item.Songs.Remove(songs);
 
                 Console.WriteLine("Song deleted from playlist successfully.");
 
@@ -94,15 +94,15 @@ public void AddSongToPlaylist(int id, Song song)
 
     {
 
-        foreach (var list  in Playlists)
+        foreach (var item  in Playlists)
 
 {
 
-            if (list.Id == id)
+            if (item.Id == id)
 
             {
 
-                Playlists.Remove(list);
+                Playlists.Remove(item);
 
                 Console.WriteLine("Playlist deleted successfully.");
 
@@ -120,7 +120,7 @@ public void AddSongToPlaylist(int id, Song song)
 
         {
 
-            throw new Newexception( "Playlist is empty.");
+            throw new Newexception( message:"Playlist is empty.");
 
         }
 
@@ -170,17 +170,17 @@ public void AddSongToPlaylist(int id, Song song)
 
 {
 
-foreach (var list  in Playlists)
+foreach (var item  in Playlists)
 
 {
 
-if (list.Id == id)
+if (item.Id == id)
 
 {
 
-list.PlaylistName = newPlaylist.PlaylistName;
+item.PlaylistName = newPlaylist.PlaylistName;
 
-list.Songs = newPlaylist.Songs;
+item.Songs = newPlaylist.Songs;
 
 }
 

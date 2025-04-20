@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TasSong.Models;
 
-namespace TasSong.Helper;
+namespace TasSong.Enums;
 
 public enum  GenreEnum
 {

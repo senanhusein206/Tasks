@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\TasSong\\",
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\TasSong\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|c:\\users\\hp\\source\\repos\\tassong\\tassong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|solutionrelative:tassong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|c:\\users\\hp\\source\\repos\\tassong\\tassong\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|solutionrelative:tassong\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|c:\\users\\hp\\source\\repos\\tassong\\tassong\\services\\playlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|solutionrelative:tassong\\services\\playlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|c:\\users\\hp\\source\\repos\\tassong\\tassong\\services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|solutionrelative:tassong\\services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|c:\\users\\hp\\source\\repos\\tassong\\tassong\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab206task\\tassong\\tassong\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|solutionrelative:tassong\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|c:\\users\\hp\\source\\repos\\tassong\\tassong\\helper\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|solutionrelative:tassong\\helper\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab206task\\tassong\\tassong\\services\\playlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|solutionrelative:tassong\\services\\playlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|c:\\users\\hp\\source\\repos\\tassong\\tassong\\exceptions\\newexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab206task\\tassong\\tassong\\services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|solutionrelative:tassong\\services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab206task\\tassong\\tassong\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|solutionrelative:tassong\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab206task\\tassong\\tassong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|solutionrelative:tassong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab206task\\tassong\\tassong\\enums\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|solutionrelative:tassong\\enums\\genreenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab206task\\tassong\\tassong\\exceptions\\newexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|solutionrelative:tassong\\exceptions\\newexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|c:\\users\\hp\\source\\repos\\tassong\\tassong\\tassong.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\ab206task\\tassong\\tassong\\tassong.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D44D45B3-2057-46A3-BAEA-FA3D44EE6BE3}|TasSong\\TasSong.csproj|solutionrelative:tassong\\tassong.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -52,57 +52,61 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "GenreEnum.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TasSong\\TasSong\\Helper\\GenreEnum.cs",
-              "RelativeDocumentMoniker": "TasSong\\Helper\\GenreEnum.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\TasSong\\TasSong\\Helper\\GenreEnum.cs",
-              "RelativeToolTip": "TasSong\\Helper\\GenreEnum.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\TasSong\\TasSong\\Enums\\GenreEnum.cs",
+              "RelativeDocumentMoniker": "TasSong\\Enums\\GenreEnum.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\TasSong\\TasSong\\Enums\\GenreEnum.cs",
+              "RelativeToolTip": "TasSong\\Enums\\GenreEnum.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:23:42.604Z"
+              "WhenOpened": "2025-04-19T20:23:42.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaylistService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\TasSong\\TasSong\\Services\\PlaylistService.cs",
+              "RelativeDocumentMoniker": "TasSong\\Services\\PlaylistService.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\TasSong\\TasSong\\Services\\PlaylistService.cs",
+              "RelativeToolTip": "TasSong\\Services\\PlaylistService.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwLkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:19:49.888Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PlaylistService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TasSong\\TasSong\\Services\\PlaylistService.cs",
-              "RelativeDocumentMoniker": "TasSong\\Services\\PlaylistService.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\TasSong\\TasSong\\Services\\PlaylistService.cs",
-              "RelativeToolTip": "TasSong\\Services\\PlaylistService.cs",
-              "ViewState": "AgIAALAAAAAAAAAAAAAjwKUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:19:49.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "SongService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TasSong\\TasSong\\Services\\SongService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\TasSong\\TasSong\\Services\\SongService.cs",
               "RelativeDocumentMoniker": "TasSong\\Services\\SongService.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\TasSong\\TasSong\\Services\\SongService.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\TasSong\\TasSong\\Services\\SongService.cs",
               "RelativeToolTip": "TasSong\\Services\\SongService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:19:26.156Z"
+              "WhenOpened": "2025-04-19T20:19:26.156Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Playlist.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TasSong\\TasSong\\Models\\Playlist.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\TasSong\\TasSong\\Models\\Playlist.cs",
               "RelativeDocumentMoniker": "TasSong\\Models\\Playlist.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\TasSong\\TasSong\\Models\\Playlist.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\TasSong\\TasSong\\Models\\Playlist.cs",
               "RelativeToolTip": "TasSong\\Models\\Playlist.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T20:15:21.739Z"
+              "WhenOpened": "2025-04-19T20:15:21.739Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "TasSong.csproj",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TasSong\\TasSong\\TasSong.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\TasSong\\TasSong\\TasSong.csproj",
               "RelativeDocumentMoniker": "TasSong\\TasSong.csproj",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\TasSong\\TasSong\\TasSong.csproj",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\TasSong\\TasSong\\TasSong.csproj",
               "RelativeToolTip": "TasSong\\TasSong.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -110,26 +114,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TasSong\\TasSong\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\TasSong\\TasSong\\Program.cs",
               "RelativeDocumentMoniker": "TasSong\\Program.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\TasSong\\TasSong\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\TasSong\\TasSong\\Program.cs",
               "RelativeToolTip": "TasSong\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T20:13:51.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Song.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TasSong\\TasSong\\Models\\Song.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\TasSong\\TasSong\\Models\\Song.cs",
               "RelativeDocumentMoniker": "TasSong\\Models\\Song.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\TasSong\\TasSong\\Models\\Song.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\TasSong\\TasSong\\Models\\Song.cs",
               "RelativeToolTip": "TasSong\\Models\\Song.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA+wBkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T20:25:59.288Z",
               "EditorCaption": ""
@@ -138,9 +142,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Newexception.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\TasSong\\TasSong\\Exceptions\\Newexception.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\TasSong\\TasSong\\Exceptions\\Newexception.cs",
               "RelativeDocumentMoniker": "TasSong\\Exceptions\\Newexception.cs",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\TasSong\\TasSong\\Exceptions\\Newexception.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\AB206task\\TasSong\\TasSong\\Exceptions\\Newexception.cs",
               "RelativeToolTip": "TasSong\\Exceptions\\Newexception.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

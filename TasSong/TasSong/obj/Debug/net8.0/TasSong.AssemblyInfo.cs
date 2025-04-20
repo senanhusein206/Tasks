@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TasSong")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d09e5554dfa1ea2de89298da673f7804a07a6c2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TasSong")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TasSong")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
